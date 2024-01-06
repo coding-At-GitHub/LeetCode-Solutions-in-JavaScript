@@ -1,0 +1,30 @@
+/*
+53. Maximum Subarray
+
+Given an integer array nums, find the 
+subarray
+ with the largest sum, and return its sum.
+*/
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxSubArray = function(nums) {
+    // let maxSum = Number.MINIMUM_SAFE_INTEGER;
+    // let sum = 0;
+    let maxSum = Number.MIN_SAFE_INTEGER; 
+    let beforeSum = 0;
+    let nowSum = 0;
+
+    for(let i=0; i< nums.length; i++){
+        nowSum = Math.max(beforeSum + nums[i], nums[i]);
+        maxSum = Math.max(maxSum, nowSum);
+        beforeSum = nowSum;
+        // sum += nums[i];
+        // if(sum < 0) { sum=0;}
+        // if(sum > maxSum){maxSum = sum;}
+    }
+    // if(maxSum < 0 ){maxSum=0;}
+    return maxSum;
+};
