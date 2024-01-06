@@ -1,0 +1,17 @@
+const arr = [3,5,9,11,13,17];
+
+function findFirstMissingOddNumber (arr) {
+    let x=arr[0];
+for(let i=1; i<arr.length;i++){
+    x += 2;
+    if(x == arr[i]){
+    continue;
+    }else if(x+2 == arr[i]){
+        return x;
+    }
+}
+return -1;
+}
+
+const ans = findFirstMissingOddNumber(arr)
+console.log(ans)
