@@ -1,5 +1,6 @@
 DSA 
 leetcode 
+react js 
 
 
 mobile app portfolio 
