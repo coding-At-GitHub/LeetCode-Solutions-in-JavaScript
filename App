@@ -2,6 +2,7 @@ DSA
 leetcode 
 react js 
 react native 
+node js
 
 
 mobile app portfolio 
