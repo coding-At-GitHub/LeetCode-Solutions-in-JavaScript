@@ -1,6 +1,6 @@
 portfolio
 only 2 experiece
-digicentr 2
+digicentr 2.4
 finacus 1
 
 DSA 
