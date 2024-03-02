@@ -1,6 +1,7 @@
 portfolio
 only 2 experiece
-dror
+digicentr 2
+finacus 1
 
 DSA 
 leetcode 
