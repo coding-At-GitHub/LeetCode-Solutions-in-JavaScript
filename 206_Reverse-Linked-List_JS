@@ -1,0 +1,15 @@
+/*
+Given the head of a singly linked list, reverse the list, and return the reversed list.
+*/
+
+var reverseList = function(head) {
+  var newHead = null;
+  var tmp = null;
+  while (head) {
+    tmp = head.next;
+    head.next = newHead;
+    newHead = head;
+    head = tmp;
+  }
+  return newHead;
+};
