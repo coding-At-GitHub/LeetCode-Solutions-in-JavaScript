@@ -1,1 +1,4 @@
 app 
+resume
+linkedin
+Naukri 
