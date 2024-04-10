@@ -1,8 +1,8 @@
 app 
 resume
 linkedin
-Naukri = daily update
+Naukri = daily update 
 
-marketing
+finacus
 iskcon non tech
-tech dogicentr 
+tech digicentr 
