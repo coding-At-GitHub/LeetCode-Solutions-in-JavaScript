@@ -1,7 +1,7 @@
 app 
 resume
 linkedin
-Naukri 
+Naukri = daily upfate
 
 
 iskcon non tech
