@@ -4,5 +4,6 @@ linkedin
 Naukri = daily update 
 
 finacus
-iskcon non tech
 tech digicentr 
+iskcon non tech
+
