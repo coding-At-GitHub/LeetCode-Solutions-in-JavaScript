@@ -1,6 +1,6 @@
 app- native , js
 resume - single column
-linkedin
+linkedin - both update
 Naukri = daily update 
 
 finacus
