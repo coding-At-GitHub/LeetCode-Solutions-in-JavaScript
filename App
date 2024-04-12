@@ -8,4 +8,5 @@ tech digicentr
 iskcon non tech
 
 marketing
-r&D
+R&D
+Tech
