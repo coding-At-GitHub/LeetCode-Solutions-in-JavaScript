@@ -1,4 +1,4 @@
-app- native , js
+app- native , js Redux 
 resume - single column
 linkedin - both update
 Naukri = daily update 
