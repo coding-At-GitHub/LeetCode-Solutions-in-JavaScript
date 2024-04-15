@@ -8,6 +8,7 @@ tech digicentr
 iskcon non tech
 
 reactjs  nextjs react native 
+js ts 
 
 marketing
 R&D
