@@ -1,4 +1,4 @@
-app- native , js Redux 
+app- native , js 
 resume - single column
 linkedin - both update
 Naukri = daily update 
@@ -7,7 +7,7 @@ finacus
 tech digicentr 
 iskcon non tech
 
-reactjs  nextjs 
+reactjs  nextjs react native 
 
 marketing
 R&D
