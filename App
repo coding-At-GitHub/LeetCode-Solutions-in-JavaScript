@@ -7,7 +7,7 @@ finacus
 tech digicentr 
 iskcon non tech
 
-react next
+reactjs  nextjs 
 
 marketing
 R&D
