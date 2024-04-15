@@ -7,6 +7,8 @@ finacus
 tech digicentr 
 iskcon non tech
 
+react next
+
 marketing
 R&D
 Tech
