@@ -5,7 +5,7 @@ Naukri = daily update
 
 finacus
 tech digicentr 
-iskcon non tech
+iskcon non tech = extra curricular
 
 reactjs  nextjs react native 
 js ts 
