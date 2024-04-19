@@ -1,4 +1,4 @@
-react native concept
+react native concept apply
 payment handling 
 web sockets
 next js
