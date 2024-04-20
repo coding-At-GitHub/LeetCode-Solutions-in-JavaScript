@@ -1,4 +1,4 @@
-react native concept apply
+react native concept refresh 
 sample app try 1-2
 react native practice 
 payment handling by accounts and UPI
