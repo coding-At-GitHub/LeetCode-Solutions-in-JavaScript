@@ -1,5 +1,5 @@
 react native concept apply
-sample app try 
+sample app try 1-2
 react native practice 
 payment handling by accounts and UPI
 web sockets in payments upi app like phone pay google pay
