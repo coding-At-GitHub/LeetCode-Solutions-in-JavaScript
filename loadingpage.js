@@ -9,5 +9,4 @@ practice 1 2 app in web by next js
 reat js
 next js
 react native
-redux
-
+redux toolkit
