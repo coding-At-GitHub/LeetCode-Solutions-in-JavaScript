@@ -7,6 +7,6 @@ next js for SSR web site
 practice 1 2 app in web by next js
 
 reat js
- next
+next js
 native
 
