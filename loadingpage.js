@@ -8,8 +8,8 @@ practice 1 2 app in web by next js
 
 
 react js
-next js
-react native
 redux-toolkit
+react native
+next js
 javscript
 css
