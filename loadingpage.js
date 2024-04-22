@@ -11,4 +11,5 @@ react js
 next js
 react native
 redux-toolkit
+javscript
 css
