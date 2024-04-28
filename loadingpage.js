@@ -16,5 +16,5 @@ css
 
 jwt token in frontend 
 access token, reference token 
-authorisation authentication 
+authorisation and authentication in js 
 
