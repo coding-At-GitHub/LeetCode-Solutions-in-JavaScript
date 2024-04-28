@@ -14,6 +14,7 @@ next js
 javscript
 css
 
-jwt token 
+jwt token in frontend 
 access token, reference token 
 authorisation authentication 
+
