@@ -2,6 +2,7 @@ react native concept refresh
 sample app try 1-2
 react native practice 
 
+technical aptitute
 
 payment handling by accounts and UPI
 web sockets in payments upi app like phone pay google pay
