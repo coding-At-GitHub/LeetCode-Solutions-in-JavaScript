@@ -4,6 +4,7 @@ react native practice
 
 technical aptitute
 interpersoanl skills
+proactive innovative solution
 
 payment handling by accounts and UPI
 web sockets in payments upi app like phone pay google pay
