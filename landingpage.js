@@ -6,3 +6,4 @@ nextjs
 react native
 
 finacus 
+digicentr 
