@@ -4,3 +4,5 @@ redux toolkit
 javascript
 nextjs
 react native
+
+finacus 
