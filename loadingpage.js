@@ -1,7 +1,7 @@
 react
 react native
 javascript
-
+next js
 
 react native concept refresh 
 sample app try 1-2
