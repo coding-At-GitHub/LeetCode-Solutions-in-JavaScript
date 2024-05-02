@@ -1,5 +1,7 @@
 react
 react native
+javascript
+
 
 react native concept refresh 
 sample app try 1-2
