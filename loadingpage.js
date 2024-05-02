@@ -1,5 +1,5 @@
 react
-
+react native
 
 react native concept refresh 
 sample app try 1-2
