@@ -8,6 +8,4 @@ react native
 finacus 
 digicentr 
 
-project 
-
-skill 
+proj
