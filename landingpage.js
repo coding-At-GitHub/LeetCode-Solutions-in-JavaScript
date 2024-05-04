@@ -5,7 +5,6 @@ javascript
 nextjs
 react native
 
-finacus 
-digicentr 
+fd 
 
 proj
