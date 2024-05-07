@@ -4,5 +4,5 @@ useState, useEffect, useRef
 redux toolkit slice
 
 react
-redux
+redux toolkit
 react native
