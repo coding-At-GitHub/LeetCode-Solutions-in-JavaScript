@@ -1,4 +1,3 @@
-
 dom manipulation
 hooks
 useState, useEffect, useRef
@@ -14,6 +13,7 @@ Mongo db
 typescript 
 mysql 
 
+jwt token
 native app
 play store 
 FinTech apps and webs 
